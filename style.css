@@ -1,0 +1,52 @@
+li {
+    list-style: none;
+}
+img {
+   display: block;
+   margin: auto;
+}
+body {
+margin: 8px; 
+}
+.table {
+        font-size: 16px;
+        text-align: center;
+        margin-left: 125px;
+        margin-right: 125px;
+        
+}
+.search {
+    font-size:20px ;
+    background-color: #EEEEEE;
+    width: 99%;
+}
+.cards {
+    text-align: center;
+}
+.firstcard {
+    float: left;
+    width: 35%;
+    background-color: rgb(126, 229, 218);
+    padding: 15px;
+    margin: 1px;
+}
+.secondcard {
+    float: left;
+    background-color: rgb(112, 204, 194);
+    margin: 1px;
+    text-align: center;
+    width: 19%;
+    padding: 6px;
+}
+.thirdcard {
+    float: left;
+    background-color: rgb(98, 179, 170);
+    margin: 1px; 
+    width: 40%;
+    padding: 3px;
+}
+footer {
+    text-align: center;
+
+
+}
